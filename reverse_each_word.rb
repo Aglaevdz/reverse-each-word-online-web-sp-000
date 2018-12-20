@@ -4,4 +4,3 @@ def reverse_each_word(sentence1)
   new_arr.join
   sentence1.each {|word| word.reverse}
   end
-end
