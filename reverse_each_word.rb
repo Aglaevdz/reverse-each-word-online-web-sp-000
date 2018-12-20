@@ -1,4 +1,6 @@
-def reverse_each_word("Hello there, and how are you?")
-"Hello there, and how are you?".split.map {|word| word.reverse}. join (" ")
+def reverse_each_word(string)
+  array = []
+  string = "Hello there, and how are you?"
+  array.split.map {|word| word.reverse}. join (" ")
   end
 end
