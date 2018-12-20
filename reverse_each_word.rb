@@ -4,4 +4,3 @@ def reverse_each_word(sentence1)
   return reversed_array
   end
 end
-
